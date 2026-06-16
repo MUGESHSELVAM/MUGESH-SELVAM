@@ -7,6 +7,7 @@
 Passionate about cybersecurity, ethical hacking, and security engineering. I enjoy identifying vulnerabilities, analyzing attack vectors, and building defensive security tools to strengthen cyber resilience.
 
 🛠️ Technical Skills
+
 🔐 Cyber Security
 
 Vulnerability Assessment & Penetration Testing (VAPT)
@@ -56,6 +57,7 @@ Techniques: Honeypots, Intrusion Detection, IP Tracking, Rate Limiting, Session 
 Developed a Flask-based honeypot Intrusion Detection System (IDS) to detect unauthorized access and brute-force attacks.
 Implemented real-time alerts, logging, dashboard monitoring, and deceptive endpoints.
 Conducted penetration testing aligned with OWASP Top 10.
+
 🔗 Repository: https://github.com/MUGESHSELVAM/HoneyTrap-IDS
 
 🥈 Tamper-Evident Logging System
@@ -65,6 +67,7 @@ Techniques: Hash Chaining, Tamper Detection, Integrity Verification, Password Ha
 Built a secure audit logging system using SHA-256 hash chaining for integrity verification.
 Implemented tamper detection, alert generation, CSV export, and admin monitoring.
 Applied security hardening aligned with OWASP best practices.
+
 🔗 Repository: https://github.com/MUGESHSELVAM/Tamper-Evident-Logging-System
 
 🥉 Phishing Detection Dashboard
@@ -95,4 +98,5 @@ Security Research & Responsible Disclosure
 💼 LinkedIn: www.linkedin.com/in/mugeshselvamk/
 💻 GitHub: https://github.com/MUGESHSELVAM
 📧 Email: iammugesh07@gmail.com
+
 ⭐ Always Learning • Always Securing • Ethical by Design
